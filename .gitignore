@@ -4,7 +4,6 @@ target
 # Local settings
 .soroban
 .stellar
-.env
 # Private runbooks — keep local only
 UPGRADE.md
 fix.md
@@ -19,3 +18,8 @@ issue-tracker.md
 issues.md
 
 fix.md
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
